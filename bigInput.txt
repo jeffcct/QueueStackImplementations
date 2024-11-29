@@ -1,0 +1,172 @@
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+push Hello
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+memorySize
+pop
+push Hello
+pop
